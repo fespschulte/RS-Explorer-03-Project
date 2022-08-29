@@ -95,6 +95,11 @@ fieldset legend {
 
 .input-wrapper label span {
   margin-left: 12px;
+  color: #c2c2c2;
+}
+
+.input-wrapper label span:hover {
+  margin-left: 12px;
   color: #6c6a71;
 }
 
